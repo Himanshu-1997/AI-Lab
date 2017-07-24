@@ -1,0 +1,11 @@
+employee(watson).
+employee(john).
+employee(johnson).
+employee(banker).
+employee(smita).
+employee(evens).
+supervisor(watson,johnson).
+supervisor(watson,john).
+supervisor(watson,banker).
+supervisor(johnson,smita).
+supervisor(john,evens).
